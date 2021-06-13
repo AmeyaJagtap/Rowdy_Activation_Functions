@@ -9,9 +9,11 @@ We propose a new type of neural networks, Kronecker neural networks (KNNs), that
 Codes: TBA 
 
 
-References for adaptive activation functions:
+Reference for Rowdy activation functions:
 
 1. A.D. Jagtap, Y. Shin, K. Kawaguchi, G.E. Karniadakis, Deep Kronecker neural networks: A general framework for neural networks with adaptive activation functions, arXiv preprint, arXiv:2105.09513, 2021. (https://arxiv.org/pdf/2105.09513.pdf)
+
+References for adaptive activation functions:
 
 2. A.D.Jagtap, K.Kawaguchi, G.E.Karniadakis, Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 20200334, 2020. (http://dx.doi.org/10.1098/rspa.2020.0334).
 
