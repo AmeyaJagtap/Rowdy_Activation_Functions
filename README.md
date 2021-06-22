@@ -6,7 +6,7 @@ We propose a new type of neural networks, Kronecker neural networks (KNNs), that
 
 
 
-Codes: TBA 
+Code: TBA 
 
 
 Reference for Rowdy activation functions:
