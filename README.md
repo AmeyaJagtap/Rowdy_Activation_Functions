@@ -46,7 +46,8 @@ Reference for Rowdy activation functions:
        journal={Neurocomputing},
        volume={468},
        pages={165--180},
-       year={2022}
+       year={2022},
+       publisher={Elsevier}
        }
 
 
