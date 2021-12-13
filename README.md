@@ -5,10 +5,6 @@ The Rowdy activation function codes written in Tensorflow 1
 We propose a new type of neural networks, Kronecker neural networks (KNNs), that form a general framework  for  neural  networks  with  adaptive  activation  functions.   KNNs  employ  the  Kronecker product,  which  provides  an  efficient  way  of  constructing  a  very  wide  network  while  keeping  thenumber of parameters low.  Our theoretical analysis reveals that under suitable conditions, KNNsinduce a faster decay of the loss than that by the feed-forward networks.  This is also empirically verified through a set of computational examples.  Furthermore, under certain technical assumptions,we establish global convergence of gradient descent for KNNs.  As a specific case, we propose the Rowdy activation function that is designed to get rid of any saturation region by injecting sinusoidal fluctuations, which include trainable parameters.  The proposed Rowdy activation function can beemployed  in  any  neural  network  architecture  like  feed-forward  neural  networks,  Recurrent  neural networks, Convolutional neural networks etc.  The effectiveness of KNNs with Rowdy activation isdemonstrated through various computational experiments including function approximation using feed-forward neural networks, solution inference of partial differential equations using the physics-informed neural networks, and standard deep learning benchmark problems using convolutional and fully-connected neural networks.
 
 
-
-Code: TBA 
-
-
 Reference for Rowdy activation functions:
 
 1. A.D. Jagtap, Y. Shin, K. Kawaguchi, G.E. Karniadakis, Deep Kronecker neural networks: A general framework for neural networks with adaptive activation functions, Neurocomputing, 468, 165-180, 2022. (https://www.sciencedirect.com/science/article/pii/S0925231221015162)
@@ -48,4 +44,5 @@ Reference for Rowdy activation functions:
        year={2020},
        publisher={The Royal Society}
        }
-
+       
+Please feel free to ask your questions.
