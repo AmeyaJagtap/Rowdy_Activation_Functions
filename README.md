@@ -1,4 +1,4 @@
-# Deep Kronecker Neural Networks : A general framework for adaptive activation functions (Rowdy Activation Functions)
+# Deep Kronecker Neural Networks (KNN) : A general framework for adaptive activation functions (Particular case of KNN: Rowdy Activation Functions)
 
 The Rowdy activation function codes written in Tensorflow 1
 
